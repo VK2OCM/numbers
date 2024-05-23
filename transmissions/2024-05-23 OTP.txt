@@ -1,0 +1,26 @@
+OTP for todays message: 
+ 
+041618080207202611071224212022191205052208222321030201171213250208180626182124260423160511180525090924112410122105030115051605251614220419260218122123171117021015112620110103190520031215061614
+ 
+ 
+DECODING THIS:
+ 
+Ciphertext (Received message): 		23 25 06 15 02 22 20 07 00 11 16 etc 
+-					-
+One Time Pad:		04 16 18 08 02 07 20 26 11 07 12 etc
+=					=
+encoded message:	19 09 14 07 00 15 00 07 15 04 04 etc 
+(If NEGATIVE, add 26 to the number!)
+ 
+then convert to letters
+00 = Space
+01 = A
+02 = B
+03 = C
+up to
+ 
+26 = Z 
+ 
+encoded message:	19 09 14 07 00 15 00 07 15 04 04 etc 
+convert to letters
+message:			S  I  N  G     O     G  O  D  D ...
